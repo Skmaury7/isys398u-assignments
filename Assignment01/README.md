@@ -119,8 +119,8 @@ If any report value does not match the source of record value, if either value i
 After one week of use, at least 90% of validation summaries should correctly identify matches, mismatches, and missing values without requiring correction by the reporting analyst.
 
 # Part 2: Google AI Studio Deployment Screenshot
+![AI Studio System Instructions](agentic ai_project 1_screenshot.png)
 
-Assignment01/agentic ai_project 1_screenshot.png
 
 # Part 3: Red Team Battery
 
